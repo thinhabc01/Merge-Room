@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"2afbb66c-8689-4764-88ef-134f5b1b1bed\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"CooldownAdsShow\",\r\n      \"type\":
+    \"float\",\r\n      \"value\": 40.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"9f158b36-6f50-41c0-a983-dac5c85a19b5\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AdsShow\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"a5db4c76-27bd-4722-847e-04cec50e2f0b\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"IronSourceAndroidId\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"161d27565\"\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"2afbb66c-8689-4764-88ef-134f5b1b1bed\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"CooldownAdsShow\",\r\n      \"type\":
+    \"float\",\r\n      \"value\": 40.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"9f158b36-6f50-41c0-a983-dac5c85a19b5\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AdsShow\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"a5db4c76-27bd-4722-847e-04cec50e2f0b\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"IronSourceAndroidId\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"161d27565\"\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"233d1bcc-8529-47e8-9db7-e8277264b188\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"e5fd5248-be89-49dc-9b68-26e718f5fb05\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2023-03-15T19:21:27Z\",\r\n    \"updatedAt\":
+    \"2023-03-15T19:21:27Z\"\r\n  }\r\n]"

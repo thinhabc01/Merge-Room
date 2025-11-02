@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28e1dd34a67c31047b6d6297cf965292, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  _musicClip: {fileID: 8300000, guid: 947ed0e5ba57afc4c844474b022c3755, type: 3}
+  _mergeClip: {fileID: 8300000, guid: fe6d2345080976c44b976d4a17f06f94, type: 3}
+  _openObjectClip: {fileID: 8300000, guid: e98b125d7f899864a8b7fa1397db0760, type: 3}
+  _gridCellsSettings:
+    GlobalOffset: {x: 20, y: 0, z: 0}
+    Size: {x: 4, y: 2}
+    OffsetCells: {x: 3.3, y: 3.8}
+    CellPrefab: {fileID: 6968818883131743016, guid: c8d1d98824cb08d49af2b4ae6846f6a0, type: 3}
+    LayerCell:
+      serializedVersion: 2
+      m_Bits: 64
+    LayerSlot:
+      serializedVersion: 2
+      m_Bits: 8
+    ElevatedValue: 2
+  _mergeFX: {fileID: 8460530965987985112, guid: 4dbaeaca9d7e967419f27723f2718287, type: 3}
+  _itemPrefab: {fileID: 997436946840992360, guid: a36fdf0002fa1e14ca8df5f688f04a99, type: 3}
