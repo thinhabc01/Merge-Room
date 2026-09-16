@@ -48,14 +48,14 @@ public class AdsController : Singleton<AdsController>
 
     private void Subscribe()
     {
-        //IronSourceEvents.onInterstitialAdReadyEvent += InterstitialAdReadyEvent;
-        //IronSourceEvents.onInterstitialAdLoadFailedEvent += InterstitialAdLoadFailedEvent;
-        //IronSourceEvents.onInterstitialAdShowSucceededEvent += InterstitialAdShowSucceededEvent;
-        //IronSourceEvents.onInterstitialAdShowFailedEvent += InterstitialAdShowFailedEvent;
-        //IronSourceEvents.onInterstitialAdClickedEvent += InterstitialAdClickedEvent;
-        //IronSourceEvents.onInterstitialAdOpenedEvent += InterstitialAdOpenedEvent;
-        //IronSourceEvents.onInterstitialAdClosedEvent += InterstitialAdClosedEvent;
-        //IronSourceEvents.onRewardedVideoAdClosedEvent += CheckTimerInterstitialAdsAfterRewardAds;
+        // IronSourceEvents.onInterstitialAdReadyEvent += InterstitialAdReadyEvent;
+        // IronSourceEvents.onInterstitialAdLoadFailedEvent += InterstitialAdLoadFailedEvent;
+        // IronSourceEvents.onInterstitialAdShowSucceededEvent += InterstitialAdShowSucceededEvent;
+        // IronSourceEvents.onInterstitialAdShowFailedEvent += InterstitialAdShowFailedEvent;
+        // IronSourceEvents.onInterstitialAdClickedEvent += InterstitialAdClickedEvent;
+        // IronSourceEvents.onInterstitialAdOpenedEvent += InterstitialAdOpenedEvent;
+        // IronSourceEvents.onInterstitialAdClosedEvent += InterstitialAdClosedEvent;
+        // IronSourceEvents.onRewardedVideoAdClosedEvent += CheckTimerInterstitialAdsAfterRewardAds;
     }
 
     private void Update()
@@ -98,14 +98,14 @@ public class AdsController : Singleton<AdsController>
 
         if (_adsShow == false) return;
 
-        //IronSourceEvents.onInterstitialAdReadyEvent -= InterstitialAdReadyEvent;
-        //IronSourceEvents.onInterstitialAdLoadFailedEvent -= InterstitialAdLoadFailedEvent;
-        //IronSourceEvents.onInterstitialAdShowSucceededEvent -= InterstitialAdShowSucceededEvent;
-        //IronSourceEvents.onInterstitialAdShowFailedEvent -= InterstitialAdShowFailedEvent;
-        //IronSourceEvents.onInterstitialAdClickedEvent -= InterstitialAdClickedEvent;
-        //IronSourceEvents.onInterstitialAdOpenedEvent -= InterstitialAdOpenedEvent;
-        //IronSourceEvents.onInterstitialAdClosedEvent -= InterstitialAdClosedEvent;
-        //IronSourceEvents.onRewardedVideoAdClosedEvent -= CheckTimerInterstitialAdsAfterRewardAds;
+        // IronSourceEvents.onInterstitialAdReadyEvent -= InterstitialAdReadyEvent;
+        // IronSourceEvents.onInterstitialAdLoadFailedEvent -= InterstitialAdLoadFailedEvent;
+        // IronSourceEvents.onInterstitialAdShowSucceededEvent -= InterstitialAdShowSucceededEvent;
+        // IronSourceEvents.onInterstitialAdShowFailedEvent -= InterstitialAdShowFailedEvent;
+        // IronSourceEvents.onInterstitialAdClickedEvent -= InterstitialAdClickedEvent;
+        // IronSourceEvents.onInterstitialAdOpenedEvent -= InterstitialAdOpenedEvent;
+        // IronSourceEvents.onInterstitialAdClosedEvent -= InterstitialAdClosedEvent;
+        // IronSourceEvents.onRewardedVideoAdClosedEvent -= CheckTimerInterstitialAdsAfterRewardAds;
     }
 
     #region EventsAds
