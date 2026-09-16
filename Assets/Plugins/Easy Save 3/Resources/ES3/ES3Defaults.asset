@@ -45,7 +45,6 @@ MonoBehaviour:
     - AlmostEngine
     - MoreMountains.Feedbacks.URP
     - UniTask.Linq
-    - AppsFlyer
     - AlmostEngine.SimpleLocalization.Editor
     - Tayx.Graphy
     - MoreMountains.Feedbacks.MMTools
@@ -65,11 +64,9 @@ MonoBehaviour:
     - DELTation.ToonShader
     - MoreMountains.Feedbacks.NiceVibrations
     - UniTask.TextMeshPro
-    - AppsFlyer.Editor
     - Lofelt.NiceVibrations.Editor
     - UniTask.Addressables
     - UniTask.Editor
-    - Tests
     - AlmostEngine.ExcludeFromBuildTool.Editor
     - UniTask.DOTween
     - Sirenix.OdinInspector.Modules.UnityMathematics
